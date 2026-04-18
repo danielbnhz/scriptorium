@@ -15,3 +15,8 @@ LM Studio (desktop) → Orchestrator (Linux laptop) → Server (storage rig)
 
 ## Stack
 - Python
+
+
+## Goals
+- to create a system of agentic download of public texts from ancient
+eras, to automate the process of finding certain relevant texts
